@@ -1,5 +1,5 @@
 # Q-SEMAR
-QUERY ON SYNTACTIC TREE M ODEL FOR ANSWER EXTRACTION AND SNIPPET RETRIEVAL
+QUERY ON SYNTACTIC TREE MODEL FOR ANSWER EXTRACTION AND SNIPPET RETRIEVAL
 
 Dalam dokumen ini disampaikan sebuah protipe – diberi nama: Q-Semar (baca: Ki Semar) - yang mengimplementasikan konsep least generalized answer bearing phrase (ABP-LG) untuk sistem tanya jawab. Prototipe yang dikembangkan adalah sebuah aplikasi web dengan memanfaatkan interaksi basis data dan program berbasis Java. 
 
